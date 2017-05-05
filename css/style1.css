@@ -1,0 +1,22 @@
+p{
+	 			color:red;
+	 			font-size:16px;
+	 		}
+	 		.c1{
+	 			color:green;
+	 		}
+	 		.c2{
+	 			font-weight:bold; 
+	 		}
+	 		#only{
+	 			font-size:50;
+	 		}
+	 		p a{
+	 			color:purple;
+	 		}
+	 		ul li a{
+	 			color:yellow;
+	 		}
+	 		h1,h2{
+	 			color:gray;
+	 		}
