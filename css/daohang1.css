@@ -1,21 +1,31 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
 #titlediv{
 	background-image: url(../images/left_nav_title.gif);
-	background-repeat: no-repeat;
-	background-size: 183px 47px;
-	background-position: -3em 90%; 
-}
-body{
-	background-image: url(../images/left_nav_bottom.gif);
-	background-repeat: no-repeat;
-	background-size: 183px 130px;
-}
-.c1{
-	font-family: '宋体';
-	font-weight: lighter;
-}
-#c2{
-	color:red;
+	width: 183px;
+	height: 35px;
+	text-align: center;
+	padding-top: 12px;
 }
 ul{
-	list-style-image: url(../images/left_cur.gif);
+	list-style-type:none;
+	list-style-image: url(../images/left_cur.gif); 
+	background-image: url(../images/left_nav_txt.gif);
+	width: 183px;
+}
+ul li{
+	width: 183px;
+	margin-left: 40px;
+	height: 30px;
+	padding-top: 5px;
+	
+	background-repeat: no-repeat;
+	background-position: -3em 90%;
+}
+#footerdiv{
+	background-image:url(../images/left_nav_bottom.gif);
+	width: 183px;
+	height: 35px;
 }

@@ -1,0 +1,41 @@
+*{
+	padding:0px;
+	margin:0px;
+	
+	}
+ul{
+	list-style-type: none;
+	line-height:75px;
+	
+
+}
+
+.c1{
+	background-image: url(../images/bg.gif);
+	width:1005px;
+	height:75px;
+	text-align:center;
+	font-size:14px;
+	font-weight:bold;
+	color:white;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color:#b9f605;
+}
+#c2{
+	color:#b9f605;
+}
+#c3{
+	color:#fdb306;
+}
+.c1 li{
+	float:left;
+	padding:0px 15px;	
+}
+.c4{
+	color:white;
+	text-align: center;
+}
