@@ -1,0 +1,28 @@
+li{
+	list-style-type:none;
+}
+div{
+	background-image: url(../images/bj.png);
+	background-repeat: no-repeat;
+	width:350px;
+	height:400px;
+}
+.c1{
+	background-image: url(../images/lvbiaoti.png);
+	background-repeat: no-repeat;
+	width:370px;
+	height:40px;
+	padding-left: 46px;
+	padding-top: 10px;
+
+}
+
+.c2,.c3,.c4,.c5{
+	background-image: url(../images/baibiaoti.png);
+	background-repeat: no-repeat;
+	width:370px;
+	height:40px;
+	padding-left: 46px;
+	padding-top: 10px;
+}
+
