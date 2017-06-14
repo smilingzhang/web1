@@ -1,0 +1,292 @@
+#mybody{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:1020px;
+	margin-left:160px;
+	/*background-image: url(../images/tangbeijing.jpg);*/
+}
+body{
+	padding:0px;
+	font-size:14px;
+	color:#080000;
+	font-family:'宋体';
+	background-image: url(../images/tangbeijing.jpg);
+	background-repeat: no-repeat;
+}
+.head{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:222px;
+}
+.banner{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:185px;
+	background-image: url(../images/tangbanner.jpg)
+}
+.nav{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:35px;
+}
+.daohang{
+	width:770px;
+	height:39px;
+	/*border:1px solid #A0A0A0;*/
+	float:left;
+	}
+.ul1 li{
+	float:left;
+	margin:4px;
+	color:white;
+	position:relative;
+	left:21px;
+	position:relative;
+	bottom:4px;
+	list-style-type: none;
+}
+
+.ul1 li a{
+	color:#c00000;
+	text-decoration: none;
+	font-weight: bolder;
+
+}
+.ul1 li a:hover{
+	color:#6600ff;
+	text-decoration: underline;
+}
+.in1{
+	width:140px;
+	height:21px;
+	background-color: #f8f5ee;
+	position:relative;
+	top:7px;
+	right:2px;
+}
+.in2{
+	width:44px;
+	height:21px;
+	background-color: #080000;
+	color:#fff;
+	position:relative;
+	top:8px;
+	right:8px;
+}
+.a1{
+	color:#522a06;
+	text-decoration: none;
+}
+.a1:hover{
+	text-decoration: underline;
+	color:#6600ff;
+
+}
+.content{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:700px;
+}
+.up{
+	/*border:1px solid red;*/
+	width:885px;
+	height:324px;
+	position: relative;
+	left:64px;
+}
+.left{
+	/*border:1px solid red;*/
+	width:585px;
+	height:324px;
+}
+.zhiyuan{
+	font-size: 25px;
+	font-family: '华文琥珀';
+	color: #3366ff;
+	position:relative;
+	bottom:8px;
+	display: inline;
+}
+.tupian{
+	/*border:1px solid blue;*/
+	width:290px;
+	height:283px;
+	float:left;
+}
+
+.more{
+	position:relative;
+	left:450px;
+	top:8px;
+}
+.ul2 li{
+	list-style-type: none;
+	position: relative;
+	right:29px;
+	bottom:15px;
+	line-height: 22px;
+}
+.ul2 li a{
+	text-decoration: none;
+	color:#522a06;
+}
+.ul2 li a:hover{
+	color:#6600ff;
+	text-decoration: underline;
+}
+.right{
+	/*border:1px solid red;*/
+	width:293px;
+	height:324px;
+	float:right;
+	position: relative;
+	bottom:327px;
+}
+.shang{
+	/*border:1px solid blue;*/
+	width:292px;
+	height:141px;
+	position: relative;
+	top:5px;
+}
+.p1{
+	position: relative;
+	bottom: 6px;
+	color:#3333ff;
+}
+.shifan{
+	position: relative;
+	bottom: 12px;
+}
+.p2{
+	text-indent: 2em;
+	line-height: 20px;
+}
+.tuyou{
+	/*border:1px solid blue;*/
+	width:170px;
+	height:102px;
+	float: right;
+	position: relative;
+	bottom: 12px;
+	right:11px;
+}
+.xi{
+	text-decoration: none;
+	color:red;
+}
+.xia{
+	/*border:1px solid blue;*/
+	width:292px;
+	height:141px;
+}
+.p3{
+	text-indent: 2em;
+	line-height: 20px;
+	position: relative;
+	bottom: 10px;
+}
+.tubiao{
+	position: relative;
+	top:4px;
+	left:3px;
+}
+.more2{
+	position: relative;
+	left:160px;
+	top:6px;
+}
+.ll{
+	width:290px;s
+	height:1px;
+	position: relative;
+	top:4px;
+}
+.down{
+	/*border:1px solid red;*/
+	width:885px;
+	height:328px;
+	position: relative;
+	left:64px;
+}
+
+.mianbaoxie{
+	position:relative;
+	left:63px;
+}
+.a1{
+	color:#522a06;
+	text-decoration: none;
+}
+.a1:hover{
+	text-decoration: underline;
+	color:#6600ff;
+
+}
+.p4{
+	font-size: 25px;
+	font-family: '华文琥珀';
+	color: #3366ff;
+	position: relative;
+	bottom: 12px;
+	left:400px;
+}
+.div4{
+	/*border:1px solid red;*/
+	width:170px;
+	height:280px;
+	position:relative;
+	bottom: 30px;
+	float:left;
+	margin-right: 5px;
+}
+.div5{
+	/*border:1px solid red;*/
+	width:170px;
+	height:280px;
+	float:left;
+	position: relative;
+	bottom: 280px;
+	margin-right: 5px;
+}
+.pic{
+	/*border:1px solid blue;*/
+	width:170px;
+	height:240;
+}
+.jieshao{
+	/*border:1px solid blue;*/
+	width:170px;
+	height:37px;
+
+}
+.p5{
+	font-size:19px;
+	position: relative;
+	bottom:10px;
+	left:50px;
+}
+.footer{
+	/*border:1px solid red;*/
+	width:1000px;
+	height:96px;
+}
+.f1{
+	position: relative;
+	/*top:15px;*/
+	left:330px;
+	bottom: 260px;
+}
+.f2{
+	position: relative;
+	/*top:15px;*/
+	left:380px;
+	bottom: 260px;
+	
+}
+.line{
+	position: relative;
+	left:280px;
+	/*top:10px;*/
+	bottom: 260px;
+}

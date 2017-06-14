@@ -1,0 +1,290 @@
+#mybody{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:1020px;
+	margin-left:160px;
+	/*background-image: url(../images/tangbeijing.jpg);*/
+}
+body{
+	padding:0px;
+	font-size:14px;
+	color:#080000;
+	font-family:'宋体';
+	background-image: url(../images/tangbeijing.jpg);
+	background-repeat: no-repeat;
+}
+.head{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:222px;
+}
+.banner{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:185px;
+	background-image: url(../images/tangbanner.jpg)
+}
+.nav{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:35px;
+}
+.daohang{
+	width:770px;
+	height:39px;
+	/*border:1px solid #A0A0A0;*/
+	float:left;
+	}
+.ul1 li{
+	float:left;
+	margin:4px;
+	color:white;
+	position:relative;
+	left:21px;
+	position:relative;
+	bottom:4px;
+	list-style-type: none;
+}
+
+.ul1 li a{
+	color:#c00000;
+	text-decoration: none;
+	font-weight: bolder;
+
+}
+.ul1 li a:hover{
+	color:#6600ff;
+	text-decoration: underline;
+}
+.in1{
+	width:140px;
+	height:21px;
+	background-color: #f8f5ee;
+	position:relative;
+	top:7px;
+	right:2px;
+}
+.in2{
+	width:44px;
+	height:21px;
+	background-color: #080000;
+	color:#fff;
+	position:relative;
+	top:8px;
+	right:8px;
+}
+
+.content{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:700px;
+}
+.mianbaoxie{
+	position:relative;
+	left:63px;
+}
+.up{
+	/*border:1px solid blue;*/
+	width:885px;
+	height:327px;
+	position:relative;
+	left:65px;
+}
+.image{
+	/*border:1px solid red;*/
+	width:175px;
+	height:324px;
+	float:left;
+}
+.pp1{
+	/*border:1px solid blue;*/
+	width:175px;
+	height:290px;
+}
+/*.pp2{
+	border:1px solid blue;
+	width:175px;
+	height:290px;
+	background-image: url(../images/tangshan.jpg);
+}*/
+.c1{
+	width:171px;
+	height:290px;
+}
+.a1:hover{
+	opacity: 0.4;
+}
+.wenzi{
+	/*border:1px solid blue;*/
+	width:175px;
+	height:30px;
+}
+.ziti{
+	font-size:17px;
+	position:relative;
+	bottom: 10px;
+	left:50px;
+}
+.down{
+	/*border:1px solid blue;*/
+	width:885px;
+	height:327px;
+	position:relative;
+	left:65px;
+}
+.a1{
+	color:#522a06;
+	text-decoration: none;
+}
+.a1:hover{
+	text-decoration: underline;
+	color:#6600ff;
+
+}
+.left{
+	/*border:1px solid red;*/
+	width:600px;
+	height:325px;
+	/*background-image: url(../images/show_bg.png);*/
+}
+.chengguo{
+	/*border:1px solid blue;*/
+	width:298px;
+	height:280px;
+	position: relative;
+	bottom:33px;
+	float:left;
+	/*display: inline;*/
+}
+.ya{
+	color:#663366;
+	text-decoration: none;
+	font-weight: bolder;
+	font-size:17px;
+}
+.ya:hover{
+	color:#3300ff;
+}
+.dian:hover{
+	color:#3300ff;
+}
+.dian{
+	color:#663366;
+	text-decoration: none;
+	font-weight: bolder;
+	font-size:17px;
+}
+.tu1{
+	/*border:1px solid blue;*/
+	width:145px;
+	height:130px;
+	float:left;
+	position:relative;
+	bottom:9px;
+}
+.tu2{
+	/*border:1px solid blue;*/
+	width:145px;
+	height:130px;
+	float:left;
+	position:relative;
+	bottom:9px;
+}
+.zuo1{
+	text-indent: 2em;
+	line-height: 25px;
+	position: relative;
+	bottom: 8px;
+}
+.xiang{
+	text-decoration: none;
+	color:red;
+	position:relative;
+	left:28px;
+}
+.p1{
+	margin-right: 4px;
+
+}
+.liebiao{
+	/*border:1px solid red;*/
+	width:290px;
+	height:110px;
+	position:relative;
+	top:122px;
+}
+.lie1 li{
+	list-style-type: none;
+	position:relative;
+	bottom:130px;
+	line-height: 26px;
+	right:34px;
+}
+.lie1 li a{
+	text-decoration: none;
+	color:#522a06;
+}
+.lie1 li a:hover{
+	color:#6600ff;
+	text-decoration: underline;
+}
+.right{
+	/*border:1px solid red;*/
+	width:280px;
+	height:325px;
+	float:right;
+	position: relative;
+	bottom:328px;
+}
+.dongtai{
+	font-size: 25px;
+	font-family: '华文琥珀';
+	color: #3366ff;
+	position:relative;
+	bottom: 15px;
+	left:80px;
+}
+.tong li{
+	list-style-type: none;
+	line-height: 28px;
+	position:relative;
+	right:30px;
+	bottom: 20px;
+}
+.tong li a{
+	text-decoration: none;
+	color:#522a06;
+}
+.tong li a:hover{
+	color:#6600ff;
+	text-decoration: underline;
+}
+.jiancheng{
+	font-size: 25px;
+	font-family: '华文琥珀';
+	color: #3366ff;
+	position:relative;
+	bottom: 15px;
+	left:250px;
+}
+.footer{
+	/*border:1px solid red;*/
+	width:1000px;
+	height:96px;
+}
+.f1{
+	position: relative;
+	/*top:15px;*/
+	left:330px;
+}
+.f2{
+	position: relative;
+	/*top:15px;*/
+	left:380px;
+	
+}
+.line{
+	position: relative;
+	left:280px;
+	/*top:10px;*/
+}
