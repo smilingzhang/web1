@@ -292,6 +292,9 @@ body{
 	color:black;
 	text-decoration: none;
 }
+.shouye:hover{
+	color:#6600ff;
+}
 #tang{
 	color: #ff6600;
 }
