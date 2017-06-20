@@ -1,0 +1,297 @@
+#mybody{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:1020px;
+	margin-left:160px;
+	/*background-image: url(../images/tangbeijing.jpg);*/
+}
+body{
+	padding:0px;
+	font-size:14px;
+	color:#080000;
+	font-family:'宋体';
+	background-image: url(../images/tangbeijing.jpg);
+	background-repeat: no-repeat;
+}
+.head{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:222px;
+}
+.banner{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:185px;
+	background-image: url(../images/tangbanner.jpg)
+}
+.nav{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:35px;
+}
+.daohang{
+	width:770px;
+	height:39px;
+	/*border:1px solid #A0A0A0;*/
+	float:left;
+	}
+.ul1 li{
+	float:left;
+	margin:4px;
+	color:white;
+	position:relative;
+	left:21px;
+	position:relative;
+	bottom:4px;
+	list-style-type: none;
+}
+
+.ul1 li a{
+	color:#c00000;
+	text-decoration: none;
+	font-weight: bolder;
+
+}
+.ul1 li a:hover{
+	color:#6600ff;
+	text-decoration: underline;
+}
+.in1{
+	width:140px;
+	height:21px;
+	background-color: #f8f5ee;
+	position:relative;
+	top:7px;
+	right:2px;
+}
+.in2{
+	width:44px;
+	height:21px;
+	background-color: #080000;
+	color:#fff;
+	position:relative;
+	top:8px;
+	right:8px;
+}
+
+
+.content{
+	/*border:1px solid #a0a0a0;*/
+	width:1000px;
+	height:700px;
+}
+.mianbaoxie{
+	position:relative;
+	left:63px;
+}
+.a1{
+	color:#522a06;
+	text-decoration: none;
+}
+.a1:hover{
+	text-decoration: underline;
+	color:#6600ff;
+
+}
+.shang{
+	/*border:1px solid #a0a0a0;*/
+	width:885px;
+	height:327px;
+	position: relative;
+	left:65px;
+}
+.zuo{
+	/*border:1px solid blue;*/
+	width:293px;
+	height:325px;
+	display: inline;
+	float:left;
+}
+.zoujin{
+	width:150px;
+	height:40px;
+}
+.more{
+	position: relative;
+	left:153px;
+	/*bottom: 3px;*/
+	top:5px;
+}
+.more3{
+	position: relative;
+	left:127px;
+	top:5px;
+}
+.p1{
+	font-size: 25px;
+	font-family: '华文琥珀';
+	color: #3366ff;
+	display: inline;
+}
+.p2{
+	text-indent: 2em;
+	line-height: 24px;
+}
+#ul2 li{
+	list-style-type: none;
+	line-height: 22px;
+	position: relative;
+	right:26px;
+}
+#ul2 li a{
+	
+	color:#522a06;
+	text-decoration: none;
+}
+#ul2 li a:hover{
+	text-decoration: underline;
+	color:#6600ff;
+}
+.ul3 li{
+	list-style-type: none;
+	line-height: 23px;
+	position: relative;
+	right:26px;
+}
+.ul3 li a{
+	
+	color:#522a06;
+	text-decoration: none;
+}
+.ul3 li a:hover{
+	text-decoration: underline;
+	color:#6600ff;
+}
+/*.zhong{
+	border:1px solid blue;
+	width:295px;
+	height:327px;
+}
+.you{
+	border:1px solid blue;
+	width:295px;
+	height:327px;
+}*/
+.xia{
+	/*border:1px solid blue;*/
+	width:885px;
+	height:327px;
+	position: relative;
+	left:65px;
+}
+
+.left{
+	/*border:1px solid blue;*/
+	width:587px;
+	height:327px;
+}
+.jingxiang{
+	/*border:1px solid red;*/
+	width:193px;
+	height:283px;
+	display: inline;
+	float:left;
+}
+.mm{
+	/*border:1px solid blue;*/
+	width:587px;
+	height:37px;
+}
+.more2{
+	position: relative;
+	top:5px;
+	left:446px;
+}
+.more1{
+	position: relative;
+	top:5px;
+	left:125px;
+}
+.tupian{
+	/*border:1px solid red;*/
+	width:192px;
+	height:250px;
+}
+.p1{
+	width:192px;
+	height:250px;
+}
+.wenzi{
+	/*border:1px solid red;*/
+	width:192px;
+	height:30px;
+	font-family: '华文琥珀';
+	font-size: 10px;
+}
+.wen1{
+	font-family: '宋体';
+	font-size: 20px;
+	color:black;
+	position: relative;
+	bottom: 12px;
+	left:45px;
+}
+.wen2{
+	font-family: '宋体';
+	font-size: 20px;
+	color:black;
+	position: relative;
+	bottom: 12px;
+	left:60px;
+}
+.right{
+	/*border:1px solid blue;*/
+	height:327px;
+	width:293px;
+	float:right;
+	position: relative;
+	bottom: 330px;
+}
+.jixiang{
+	width:150px;
+	height:150px;
+	position: relative;
+	top:3px;
+	left:3px;
+	/*display: inline;*/
+	float:left;
+	margin-right: 8px;
+}
+.p4{
+	float:left;
+	width:130px;
+	position: relative;
+	bottom: 10px;
+	line-height: 22pxs;
+}
+.ji{
+	position: relative;
+	bottom: 20px;
+	line-height: 22px;
+}
+.footer{
+	/*border:1px solid red;*/
+	width:1000px;
+	height:96px;
+}
+
+.f1{
+	position: relative;
+	top:15px;
+	left:330px;
+}
+.f2{
+	position: relative;
+	top:15px;
+	left:380px;
+	
+}
+.line{
+	position: relative;
+	left:280px;
+}
+.shouye{
+	text-decoration: none;
+	color:#ff6600;
+	font-weight: bolder;
+}
